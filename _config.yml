@@ -1,4 +1,4 @@
-remote_theme: rms-open-letter/minima
+remote_theme: jukefr/minima
 languages:
   - name: "Brazilian Portuguese"
     code: "pt"
